@@ -5,7 +5,7 @@ Explantion & Demonstration Video:
 [Presentation Video](https://youtu.be/WxVuBVzxLWc)
 
 How to use:
-Download the source code from the repository and execute it via the command line.
+Download the [source code](statistics.java) from the repository and execute it via the command line.
 
 ## To compile and execute the program via command line:
 
